@@ -1,0 +1,19 @@
+html, body{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+    font-size: 70px;
+}
+
+#matrix{
+    color: green;
+    font-family: courier;
+}
